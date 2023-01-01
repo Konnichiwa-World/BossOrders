@@ -2,7 +2,7 @@
 
 This Project has:
 
-ASP.NET Core
++ ASP.NET Core
 + .NET 6 (used Visual Studio 2022)
 + MVC.
 + Admin Panel
